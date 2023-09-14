@@ -1,1 +1,4 @@
-print("Hello MaxTheDragon")
+#include <stdio.h>
+
+printf("Hello MaxTheDragon")
+}
